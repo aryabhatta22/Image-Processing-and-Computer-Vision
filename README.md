@@ -2,23 +2,23 @@
 
 ## Changing Background
 
-<img src="images/profile_white.jpeg"
+<img src="images/profile_white_background.jpeg"
      alt="profile_white"
-     style="float: left; margin-right: 10px;" />
+    margin-right: 5px;" />
      
 <img src="results/Change Bcakground/mask.png"
      alt="mask"
-     style="float: left; margin-right: 10px;" />
+     margin-right: 5px;" />
      
 <img src="results/Change Bcakground/mask_image.png"
      alt="mask_image"
-     style="float: left; margin-right: 10px;" />
+    margin-right: 5px;" />
      
 <img src="results/Change Bcakground/space.jpg"
      alt="space"
-     style="float: left; margin-right: 10px;" />
+    margin-right: 5px;" />
      
      
 <img src="results/Change Bcakground/changed_background.png"
      alt="changed_background"
-     style="float: left; margin-right: 10px;" />
+      margin-right: 5px;" />

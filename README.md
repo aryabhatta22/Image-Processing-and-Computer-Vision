@@ -9,6 +9,6 @@
 ## Low Pass Filter
 <img src="results/low_pass_filter.png"
      alt="Low Pass Filter" />
-## Low Pass Filter
-<img src="results/low_pass_filter.png"
+## High Pass Filter
+<img src="results/high_pass_filter.png"
      alt="High Pass Filter" />

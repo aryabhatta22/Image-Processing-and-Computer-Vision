@@ -12,3 +12,6 @@
 ## High Pass Filter
 <img src="results/high_pass_filter.png"
      alt="High Pass Filter" />
+## High Pass on Gaussian Blur
+<img src="results/high_pass_on_blur.png"
+     alt="High Pass on Gaussian Blur" />
